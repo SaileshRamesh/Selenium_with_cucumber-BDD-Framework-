@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="3" time="0">
+<testcase classname="Add new Deal" name="Login with valid credentials" time="0">
+<system-out><![CDATA[Given User is on Application Home Page......................................skipped
+When Application title is freecrm...........................................skipped
+Then User enters username and password......................................skipped
+And user clicks on Login Button.............................................skipped
+When user navigate to user Profile Page.....................................skipped
+]]></system-out>
+</testcase>
+<testcase classname="Add new Deal" name="Login with invalid credentials" time="0">
+<system-out><![CDATA[Given User is on Application Home Page......................................skipped
+When Application title is freecrm...........................................skipped
+Then User enters username and password......................................skipped
+And user clicks on Login Button.............................................skipped
+When Application title is freecrm...........................................skipped
+]]></system-out>
+</testcase>
+<testcase classname="Add new Deal" name="Add new Multi Deal" time="0">
+<system-out><![CDATA[Given User is on Application Home Page......................................skipped
+When Application title is freecrm...........................................skipped
+Then User enters username and password......................................skipped
+And user clicks on Login Button.............................................skipped
+When user navigate to user Profile Page.....................................skipped
+Then Go to Deal form........................................................skipped
+Then New Deal Contact Form..................................................skipped
+Then User enters deal data..................................................skipped
+Then save the Deal..........................................................skipped
+]]></system-out>
+</testcase>
+</testsuite>
